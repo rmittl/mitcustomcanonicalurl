@@ -12,7 +12,7 @@
 	<files>
 	<folder>language</folder>
 		<filename plugin="mitcustomcanonicalurl">mitcustomcanonicalurl.php</filename>
-		
+		<folder>language</folder>
 	</files>
 	<languages>
 		<language tag="en-GB">en-GB.plg_system_mitcustomcanonicalurl.ini</language>
@@ -29,7 +29,7 @@
 	<updates>
 	  <updateservers>
         <server type="extension" priority="1" name="PLG_SYSTEM_MITCUSTOMCANONICAL">
-            https://raw.githubusercontent.com/rmittl/mitcustomcanonical/master/update.xml
+            https://raw.githubusercontent.com/rmittl/mitcustomcanonicalurl/master/update.xml
         </server>
     </updateservers>
 	</updates>
