@@ -26,11 +26,4 @@
 		</fields>
 		</fieldset>
 	</config>
-	<updates>
-	  <updateservers>
-        <server type="extension" priority="1" name="PLG_SYSTEM_MITCUSTOMCANONICAL">
-            https://raw.githubusercontent.com/rmittl/mitcustomcanonical/master/update.xml
-        </server>
-    </updateservers>
-	<updates>
 </extension>
